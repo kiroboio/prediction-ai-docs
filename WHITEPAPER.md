@@ -1,16 +1,33 @@
 <div align="center">
 
-# Prediction Market Platform
+# dAppable.ai Infrastructure
+## Prediction Market Technical Showcase
 
-### *Next-Generation Decentralized Prediction Markets on UMA Protocol*
+### *Production-Ready Web3 Application Built with dAppable.ai Infrastructure*
 
 [![Solidity](https://img.shields.io/badge/solidity-0.8.26-orange.svg)](https://soliditylang.org/)
 [![UMA](https://img.shields.io/badge/oracle-UMA%20OOv3-red.svg)](https://uma.xyz/)
+[![dAppable.ai](https://img.shields.io/badge/infrastructure-dAppable.ai-blue.svg)](https://dappable.ai)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 **Version 1.0 | January 2025**
 
+> **This is not a standalone app. This is a template demonstrating dAppable.ai's Infrastructure-as-a-Service for Web3.**
+
 </div>
+
+---
+
+## 🎯 For Builders: What You're Looking At
+
+This repository contains a **fully functional prediction market** built using dAppable.ai infrastructure. It's designed to be:
+
+✅ **Forked** - Clone this repo as your starting point
+✅ **Customized** - Modify parameters, branding, and features
+✅ **Deployed** - Launch your own prediction market in hours
+✅ **Extended** - Add Smart Transactions for future-proof flexibility
+
+**Think of this as WordPress for Web3**—not a platform you use, but infrastructure you own.
 
 ---
 
@@ -26,21 +43,44 @@
 ### 🔗 Quick Links
 - [PredictionMarket.json](abi/PredictionMarket.json) - Market contract ABI
 - [PredictionMarketFactory.json](abi/PredictionMarketFactory.json) - Factory contract ABI
+- [dAppable.ai](https://dappable.ai) - Build your own dApp
 
 ---
 
 ## Executive Summary
 
+### What This Repository Demonstrates
+
 The prediction market industry has experienced explosive growth, with monthly trading volumes exceeding **$7-8 billion** as of October 2025. Market leaders like Kalshi ($4.4B monthly volume, $5B valuation) and Polymarket ($6B+ cumulative volume) have validated the massive demand for decentralized forecasting platforms.
 
-However, current platforms face critical limitations:
-- **Centralization**: Kalshi is fully regulated/centralized; Polymarket transitioned to whitelisted proposers (MOOv2) after oracle manipulation incidents
-- **Accessibility Barriers**: High bond requirements ($10K+) exclude smaller participants from settlement
-- **Legacy Technology**: Most platforms use older oracle versions (UMA OOv2) or standard deployment patterns
+**The Problem**: Building a production-ready prediction market from scratch requires 6-12 months, $500K+ in development costs, and deep expertise in Solidity, oracles, and DeFi economics.
 
-### Our Innovation
+**The Solution**: dAppable.ai infrastructure enables anyone to deploy a customized prediction market in hours instead of months.
 
-We've built a **modular, permissionless prediction market infrastructure** that addresses these limitations through:
+### This Repository Is a Template, Not a Platform
+
+**What you're looking at**:
+- Production-ready smart contracts (audited, gas-optimized)
+- Complete integration with UMA Optimistic Oracle V3
+- Industry-first crowdsourced bond pooling
+- Modular architecture (swap AMM, oracle, or staking modules)
+- Smart Transactions layer for future-proof flexibility (powered by Kirobo)
+- UI templates and deployment scripts
+
+**What you can do with it**:
+- Fork this repo as your starting point
+- Customize parameters (fees, tokens, branding)
+- Deploy to any EVM chain (Ethereum, Base, Arbitrum, etc.)
+- Add custom features via Smart Transactions layer
+- Launch your own white-label prediction market
+
+**The Value**: Instead of building from scratch, use this as infrastructure and focus on your unique value proposition (community, distribution, use case).
+
+---
+
+### Technical Innovation
+
+This template demonstrates **dAppable.ai's Infrastructure-as-a-Service** through:
 
 <table>
 <tr>
@@ -88,7 +128,7 @@ We've built a **modular, permissionless prediction market infrastructure** that 
 </tr>
 </table>
 
-**Market Position**: We're building the infrastructure layer that enables fully decentralized, accessible prediction markets at scale—combining UMA's proven security with innovations that address current market limitations.
+**Positioning**: This is not a competing prediction market platform. This is **Infrastructure-as-a-Service** that enables anyone to deploy their own prediction market—combining UMA's proven security with dAppable.ai's developer-first infrastructure and Kirobo's Smart Transactions layer for future-proof flexibility.
 
 ---
 

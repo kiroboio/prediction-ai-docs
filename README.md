@@ -1,7 +1,34 @@
-# Prediction Market Platform
-## Kirobo Documentation Hub
+# dAppable.ai Infrastructure
+## Prediction Market Showcase
 
-> **Decentralized Prediction Markets Built on UMA Protocol**
+> **Build Complex Web3 Applications in Minutes—This Prediction Market Is Proof**
+
+---
+
+## 🎯 What Is This?
+
+**This repository demonstrates the power of dAppable.ai**—a vibe coding web app that lets anyone build sophisticated Web3 applications through natural language.
+
+Instead of just telling you what dAppable.ai can do, we **built a fully functional prediction market** to show you. This isn't a toy example—it's production-ready infrastructure deployed on Ethereum and Base with:
+- UMA Optimistic Oracle V3 integration
+- Crowdsourced bond pooling (industry first)
+- 90% gas savings via EIP-1167 clones
+- Multi-tier creator economy
+- Smart Transactions layer for future-proof flexibility
+
+**The Big Idea**: We are not just building this market. We are providing the tools, templates, and infrastructure for **you** to build yours.
+
+---
+
+## 🛠️ For Builders: Fork This Template
+
+This repository is designed to be **forked, customized, and deployed** by:
+- **Developers**: Use this as a blueprint for your own prediction market
+- **DAOs**: White-label this for your community's governance
+- **Creators**: Launch your branded prediction platform
+- **AI Agents**: Programmatically deploy and manage markets via API
+
+**Think of this as the WordPress for prediction markets**—not a platform you're locked into, but infrastructure you own and control.
 
 ---
 
@@ -17,6 +44,7 @@
 ### 🔗 Quick Links
 - [PredictionMarket.json](abi/PredictionMarket.json) - Market contract ABI
 - [PredictionMarketFactory.json](abi/PredictionMarketFactory.json) - Factory contract ABI
+- [dAppable.ai](https://dappable.ai) - Build your own dApp with vibe coding
 
 ---
 
@@ -58,21 +86,92 @@
 
 ### The Vision
 
-**We are building the marketplace where humans + AI price the future.**
+**dAppable.ai lets anyone build complex Web3 applications instantly—and this prediction market proves it.**
 
-Not just another prediction market app—we're building the **infrastructure layer** for how the world discovers truth and prices uncertainty in the age of AI agents.
+We're not building "another prediction market." We're building **Infrastructure-as-a-Service for Web3**—a platform where developers, DAOs, creators, and AI agents can deploy production-ready dApps in minutes instead of months.
 
-**The Shift We're Capturing**:
-- **Today**: Prediction markets are niche apps for crypto traders
-- **Tomorrow**: Prediction markets are the fundamental coordination layer for autonomous agents + human forecasters
-- **Our Bet**: Every decision (DAO votes, fund allocations, policy debates, product launches) will be informed by prediction markets
+**The Paradigm Shift**:
+- **Old Way**: Spend 6-12 months building a dApp from scratch, hire Solidity devs, audit contracts, build frontend
+- **New Way (dAppable.ai)**: Describe what you want to build → Get production-ready smart contracts + Smart Transactions layer + UI templates → Deploy in hours
+- **This Repository**: Fully functional prediction market showcasing what's possible with dAppable.ai infrastructure
 
-**Why Now**: 2025 is the inflection point where AI agents become economic actors. They need a trustless way to:
-- **Price uncertainty** (Will this bill pass? Will ETH hit $5K?)
-- **Coordinate actions** (Hedge positions, arbitrage opportunities)
-- **Discover truth** (Signal vs noise in a world of information overload)
+**Why This Matters**: 2025 is the inflection point where AI agents become economic actors. They need infrastructure that lets them:
+- **Deploy dApps programmatically** (No-code/low-code for agents)
+- **Add conditional logic without redeploying contracts** (Smart Transactions layer)
+- **Compose complex applications** (Modular architecture)
+- **Future-proof their deployments** (Upgradeable functionality via Smart Transactions)
 
-**We're not building for 100K crypto users. We're building for 100M AI agents + billions of humans who need to price the future.**
+**We're not building for 100K developers. We're building for 100M AI agents + humans who want to create Web3 applications.**
+
+---
+
+### The Technology: Smart Contracts + Smart Transactions
+
+**What Makes This Different?**
+
+Traditional dApps are rigid: once deployed, smart contracts are immutable. Want to add a feature? Redeploy everything, migrate users, pray nothing breaks.
+
+**Our Approach**: Two-layer architecture powered by Kirobo's technology
+
+#### Layer 1: Immutable Smart Contracts (Security & Trust)
+- Production-ready Solidity contracts (audited, gas-optimized)
+- UMA Optimistic Oracle V3 integration for trustless settlement
+- Factory pattern with modular architecture (AMM, Oracle, Staking modules)
+- 90% gas savings via EIP-1167 minimal proxy pattern
+
+**This layer provides**: Security, trustlessness, and proven economic primitives
+
+#### Layer 2: Smart Transactions (Flexibility & Future-Proofing)
+- **Conditional Logic**: Add complex conditions and triggers without modifying contracts
+- **Future-Proof Upgrades**: Introduce new features while keeping core contracts immutable
+- **AI Agent Ready**: Programmatic interaction layer designed for autonomous agents
+- **Composability**: Orchestrate multiple transactions atomically with conditional execution
+
+**Real Example**: Want to add "auto-settle if volume exceeds $1M" or "refund if oracle is disputed"? With Smart Transactions, you can add these rules **without redeploying contracts**.
+
+**Upcoming: FCT Integration**
+
+Kirobo's **Flexible Call Transactions (FCT)** will add agentic capabilities:
+- Autonomous transaction orchestration
+- Cross-contract conditional execution
+- AI-driven decision trees
+- Self-executing agreements
+
+**The Result**: Infrastructure that combines the security of immutable contracts with the flexibility of programmable transactions.
+
+---
+
+### The Builder Opportunity: Infrastructure-as-a-Service
+
+**This is not a platform you use. This is infrastructure you own.**
+
+Think of this repository as the **WordPress of Web3**—a template you fork, customize, and deploy:
+
+**For Developers**:
+- Clone this repo → Customize parameters → Deploy your prediction market
+- No need to build from scratch: contracts, oracles, AMM, UI all included
+- Modular architecture: swap out components without rewriting everything
+- Complete documentation: integration guides, ABIs, deployment scripts
+
+**For DAOs & Communities**:
+- White-label prediction markets for governance decisions
+- Embed market creation in your existing dApp
+- Customize fees, branding, and rules
+- Keep 100% of revenue (or share with creators)
+
+**For AI Agents**:
+- API-first design: programmatic market creation and trading
+- Smart Transactions enable autonomous decision-making
+- SDKs and comprehensive documentation
+- Bot-friendly economics (low fees, high efficiency)
+
+**For Creators & Influencers**:
+- Launch your branded prediction platform
+- Built-in monetization: 1.8% creator fees
+- Bring your audience, keep your revenue
+- No technical knowledge required (dAppable.ai handles deployment)
+
+**The Value Proposition**: Instead of spending $500K+ and 6-12 months building this yourself, fork it and customize in days for <$10K.
 
 ---
 
@@ -91,21 +190,27 @@ The global prediction markets and betting industry represents a **$200B+ annual 
 - Prediction markets become the **coordination layer** for multi-agent systems
 - Total addressable: **Every economic decision globally**
 
-**The Paradigm Shift**: From "gambling app" to "infrastructure for pricing the future"
+**The Paradigm Shift**: From "single-use app" to "infrastructure-as-a-service"
 
-### Our Solution
+### Our Solution: dAppable.ai Infrastructure
 
-**Polymarket is liquidity-first. We are creator-first + AI-first.**
+**Polymarket built an app. We built the infrastructure to build thousands of Polymarkets.**
 
-We're building the **only prediction market platform designed for creators and AI agents**, combining:
+This isn't about competing with Polymarket—it's about providing the **tools** for anyone to create their own version:
 
-- **Creator Economy**: Built-in 1.8% fee share—YouTube for prediction markets
-- **AI-Native Design**: API-first architecture for autonomous agent trading
-- **Crowdsourced Bond Pools**: Unique democratic settlement (first in industry)
-- **90% Gas Savings**: EIP-1167 clone pattern enables mass-market adoption
-- **Multi-Chain Deployment**: Live on Ethereum and Base, expandable to all EVM chains
+**What This Repository Demonstrates**:
+- **Plug-and-Play Architecture**: Fork, customize, deploy in hours (not months)
+- **Smart Transactions Layer**: Add features without redeploying contracts (powered by Kirobo)
+- **Modular Design**: Swap AMM, oracle, or staking modules without breaking anything
+- **Creator Economy Built-In**: 1.8% fee share attracts quality market creators
+- **AI-Native**: API-first design for autonomous agent deployment
+- **Crowdsourced Bond Pools**: Democratic settlement (industry first, no $10K+ barriers)
+- **90% Gas Savings**: EIP-1167 clone pattern enables mass adoption
+- **Multi-Chain Ready**: Deployed on Ethereum + Base, works on any EVM chain
 
-**The Strategic Difference**: Polymarket attracts traders with liquidity. We attract creators and AI agents who bring their own distribution and generate infinite inventory.
+**The Strategic Difference**:
+- **Polymarket** = Build one prediction market, attract traders with liquidity
+- **dAppable.ai** = Provide infrastructure for 1,000+ prediction markets, each customized for different communities, use cases, and agents
 
 ### Business Model
 
@@ -469,24 +574,31 @@ Examples:
        Low Decentralization
 ```
 
-### Why We Win vs Polymarket
+### Why dAppable.ai Wins vs Single-Use Apps
 
-**Polymarket is liquidity-first. We are creator-first + AI-first.**
+**Polymarket = App. dAppable.ai = Infrastructure.**
 
 **What This Means**:
-- **Polymarket**: Built for traders. Anonymous markets. Relies on centralized market makers. Human-only UX.
-- **Us**: Built for creators. Attribution & monetization. Decentralized liquidity incentives. API-first for AI agents.
+- **Polymarket**: Build one prediction market app, compete for users, raise money for liquidity
+- **dAppable.ai**: Provide infrastructure for thousands of prediction markets, each builder brings their own users and liquidity
 
-**The Strategic Bet**:
-- Polymarket bets that liquidity attracts users
-- We bet that **creators + AI agents** attract liquidity
+**The Strategic Advantage**:
+- **Apps compete** for a fixed user base (zero-sum game)
+- **Infrastructure scales** with every builder who adopts it (positive-sum game)
 
-**Why We're Right**:
-1. **Creators bring distribution** (500K-5M followers each) → instant user base
-2. **AI agents scale infinitely** (1,000x more markets than humans can create)
-3. **Liquidity follows volume**, not the other way around
+**Why Infrastructure Wins**:
+1. **Network effects compound**: Every fork/deployment increases ecosystem value
+2. **No direct competition**: Each deployment serves a different community/niche
+3. **Capital efficient**: Builders fund their own liquidity and acquisition
+4. **AI agent era**: Agents need infrastructure to build on, not apps to use
 
-**Positioning**: "YouTube for prediction markets + infrastructure for AI agents"
+**Real-World Parallel**:
+- **WordPress** powers 43% of all websites (infrastructure won)
+- **Squarespace** is one website builder among many (app competes)
+- **dAppable.ai** = WordPress for Web3
+- **Polymarket** = Squarespace for prediction markets
+
+**Positioning**: "Infrastructure-as-a-Service for Web3 applications"
 
 ### Market Share Opportunity
 
@@ -1396,29 +1508,35 @@ This isn't a feature difference—it's an **architectural choice** that creates 
 
 ### Investment Thesis
 
-**We are building the marketplace where humans + AI price the future.**
+**dAppable.ai is Infrastructure-as-a-Service for Web3—and this prediction market proves it works.**
 
-This isn't a prediction market app—it's **infrastructure for the AI agent economy**.
+We're not building another app. We're building the **platform that lets anyone build Web3 applications**—and this repository demonstrates production-ready infrastructure.
 
 ---
 
 #### The Big Bet
 
-**Polymarket is liquidity-first. We are creator-first + AI-first.**
+**Polymarket built an app. We built the tools to build thousands of Polymarkets.**
 
-This single strategic difference creates **fundamentally different flywheels** and positions us to capture the **$1T+ AI agent economy**, not just the $3B prediction market niche.
+This single strategic difference positions us to capture the **infrastructure layer** of Web3, not just one vertical.
 
-**Polymarket's Flywheel** (Capital Intensive):
-- Liquidity → Traders → Volume → More Liquidity
-- Requires constant capital injection
-- Limited to human traders (100K users)
-- TAM: $5B-10B (crypto betting market)
+**App Model** (Polymarket's Approach—Capital Intensive):
+- Build one app → Raise capital for liquidity → Compete for users → Scale one platform
+- TAM: $5B-10B (prediction market users)
+- Multiple: 5-10x revenue (app multiples)
+- Exit: Strategic acquisition by larger platform
 
-**Our Flywheel** (Network Effects):
-- Creators + AI Agents → Markets + Distribution → Volume → Liquidity
-- Self-sustaining through creator fees + token incentives
-- Scales to 100M+ AI agents
-- TAM: $1T+ (AI agent economy infrastructure)
+**Infrastructure Model** (dAppable.ai's Approach—Network Effects):
+- Build infrastructure → Provide templates/tools → Builders deploy customized versions → Ecosystem scales
+- TAM: $1T+ (entire Web3 application layer)
+- Multiple: 15-30x revenue (infrastructure multiples)
+- Exit: Category-defining infrastructure company or token economy
+
+**Why Infrastructure > Apps**:
+1. **Every builder** who forks this becomes a customer (positive-sum)
+2. **Network effects compound** with each deployment
+3. **Capital efficient**: Builders fund their own go-to-market
+4. **Future-proof**: As new use cases emerge, builders adapt our infrastructure
 
 ---
 
@@ -1534,7 +1652,7 @@ This single strategic difference creates **fundamentally different flywheels** a
 
 #### The Thesis in One Sentence
 
-**Polymarket is defending yesterday's model (liquidity-first, human-only, $3B TAM). We're building tomorrow's infrastructure (creator-first + AI-first, autonomous coordination, $1T+ TAM).**
+**Polymarket built an app ($3B TAM). dAppable.ai built the infrastructure to build thousands of apps ($1T+ TAM).**
 
 ### Investment Highlights Summary
 
