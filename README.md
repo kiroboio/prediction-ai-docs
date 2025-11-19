@@ -1,5 +1,20 @@
 # Prediction Market Platform
-## Shareholders & Investor Overview
+## Kirobo Documentation Hub
+
+> **Decentralized Prediction Markets Built on UMA Protocol**
+
+---
+
+## 📚 Available Documents
+
+| Document | Description | Audience |
+|----------|-------------|----------|
+| **[Shareholders Paper](README.md)** *(You are here)* | Business plan, financial projections, investment thesis | Investors, stakeholders |
+| **[Technical Whitepaper](WHITEPAPER.md)** | System architecture, technology deep-dive, implementation | Developers, technical audience |
+
+---
+
+# Shareholders & Investor Overview
 
 **Business Plan & Financial Projections**
 
