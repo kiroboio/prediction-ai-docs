@@ -50,9 +50,10 @@
 8. [The Moat: Why We're Defensible](#the-moat-why-were-defensible)
 9. [Risk Analysis](#risk-analysis)
 10. [Investment Highlights](#investment-highlights)
-11. [Growth Roadmap](#growth-roadmap)
-12. [Execution & Traction](#execution--traction)
-13. [Appendix: Key Metrics](#appendix-key-metrics)
+11. [Token Utility: How Investors Capture Value](#token-utility-how-investors-capture-value)
+12. [Growth Roadmap](#growth-roadmap)
+13. [Execution & Traction](#execution--traction)
+14. [Appendix: Key Metrics](#appendix-key-metrics)
 
 ---
 
@@ -580,22 +581,18 @@ Examples:
    - Gradually reduce subsidy as organic MM activity increases
    - Target: 80% organic liquidity by Month 12
 
-5. **Token-Based Liquidity Farming** (Q4 2025 - Potential):
-   - **$PREDICT Token**: Governance + revenue-sharing token (potential Q4 2025 launch)
-   - **Liquidity Mining**: Earn $PREDICT tokens for providing two-sided liquidity
-   - **Staking Rewards**: Stake $PREDICT to earn 20-30% of platform fees
-   - **Creator Rewards**: Top creators earn bonus $PREDICT allocations
-   - **MM Incentives**: Professional MMs earn higher token rewards (2-5x multipliers)
+5. **Token-Based Liquidity Farming** (Q4 2025 Launch):
+   - **$PREDICT Token**: Multi-utility token capturing platform value
+   - **Liquidity Mining**: Earn tokens for providing two-sided liquidity
+   - **Staking Rewards**: Stake to earn 30-50% of platform fees
+   - **Creator Boosts**: Top creators earn bonus token allocations
+   - **MM Incentives**: Professional MMs earn higher rewards (2-5x multipliers)
 
-**Token Economics** (If Launched):
-- Total Supply: 100M $PREDICT
-- Allocation: 40% liquidity mining, 25% team (4-year vest), 20% treasury, 15% investors
-- Distribution: 4-year emission schedule, decreasing over time
-- Utility: Governance votes + pro-rata share of 30-50% of platform fees
+**See detailed Token Utility section below for complete value capture mechanics.**
 
 **Investment Required**:
 - Bootstrap fund (USDC): $75K-150K (Year 1-2)
-- Token launch (optional): $500K-1M liquidity mining allocation (Year 2-3)
+- Token launch allocation: $500K-1M liquidity mining (Year 2-3)
 
 **Expected Impact**:
 - Without token: 3-5x increase in market depth, 50% reduction in slippage
@@ -1508,6 +1505,273 @@ This isn't a feature difference—it's an **architectural choice** that creates 
 - Time-weighted fairness (prevents free-riding)
 
 **Window of Opportunity**: 12-18 months before competitors copy
+
+---
+
+## Token Utility: How Investors Capture Value
+
+**The Question**: "Looks cool, but how do I make money as an investor?"
+
+**The Answer**: The $PREDICT token captures value directly from every platform interaction.
+
+### Token Utility (6 Value Capture Mechanisms)
+
+**This token captures value directly from platform usage through six interconnected utilities:**
+
+---
+
+#### 1. Fee Discounts (Demand Driver)
+
+**Mechanic**: Stake $PREDICT to get reduced platform fees
+
+- **Standard User**: Pays 5% total fees (1.2% platform + 1.8% creator + 2.0% activator)
+- **Token Stakers**:
+  - Stake 10,000 $PREDICT → 10% discount (4.5% total fees)
+  - Stake 50,000 $PREDICT → 20% discount (4.0% total fees)
+  - Stake 100,000 $PREDICT → 30% discount (3.5% total fees)
+
+**Value Capture**: High-volume traders MUST buy and stake $PREDICT to be competitive. At $200M annual volume, top 100 traders will stake $5M-10M in tokens.
+
+**Burn Mechanism**: 50% of discount comes from platform fees, 50% burned from token supply (deflationary).
+
+---
+
+#### 2. Creator Boosts (Network Effects Driver)
+
+**Mechanic**: Stake $PREDICT to earn higher creator fees + platform promotion
+
+- **Standard Creator**: Earns 1.8% of losing stake
+- **Token Stakers**:
+  - Stake 25,000 $PREDICT → 2.0% creator fee + "Verified Creator" badge
+  - Stake 100,000 $PREDICT → 2.5% creator fee + homepage featuring
+  - Stake 250,000 $PREDICT → 3.0% creator fee + priority oracle settlement
+
+**Value Capture**: Top creators earning $100K-1M annually will stake $250K-1M in tokens to maximize earnings.
+
+**Calculation** (Year 2):
+- 500 active creators
+- Average 50K $PREDICT staked per creator
+- **Total staked by creators**: 25M $PREDICT (25% of supply)
+
+---
+
+#### 3. LP Rewards (Liquidity Driver)
+
+**Mechanic**: Provide liquidity to markets, earn $PREDICT token emissions
+
+- **Liquidity Mining Pool**: 40M $PREDICT (40% of total supply)
+- **Distribution**: 4-year emission schedule, weighted by:
+  - Volume provided (40%)
+  - Time-weighted liquidity (30%)
+  - Two-sided provision (30% bonus for providing both YES and NO)
+
+**Annual Emissions**:
+- Year 1: 20M $PREDICT (50% of pool)
+- Year 2: 10M $PREDICT (25%)
+- Year 3: 6M $PREDICT (15%)
+- Year 4: 4M $PREDICT (10%)
+
+**Value Capture**: Market makers earning $500K-2M annually in USDC fees will also earn $100K-500K in $PREDICT tokens.
+
+**Real Yield**: At $200M volume, platform generates $2.88M in fees. 30-50% ($864K-1.44M) distributed to stakers = **8.6%-14.4% APY** on staked tokens.
+
+---
+
+#### 4. Governance (Category Curation)
+
+**Mechanic**: Vote on which market categories to prioritize and fund
+
+- **Categories**: Crypto, Politics, Sports, Entertainment, Finance, etc.
+- **Voting Power**: 1 staked $PREDICT = 1 vote
+- **Decisions**:
+  - Which categories get platform co-investment ($10K-50K per featured market)
+  - Which categories get homepage prominence
+  - Which categories get creator recruitment budgets
+  - Fee splits per category (e.g., lower fees for underserved categories)
+
+**Value Capture**: Large token holders (investors, top creators, DAOs) direct platform resources to maximize their own returns.
+
+**Example Vote**: "Allocate $100K to sports betting category" → Sports creators stake tokens to vote YES → Sports volume increases → Sports creators earn more fees → Token price increases.
+
+---
+
+#### 5. Slashing for Bad Creators (Quality Control)
+
+**Mechanic**: Creators stake tokens as bond, slashed for misbehavior
+
+- **Creator Bond Requirement**:
+  - Standard creators: 10,000 $PREDICT staked
+  - Verified creators: 25,000 $PREDICT staked
+  - Premium creators: 50,000 $PREDICT staked
+
+- **Slashable Offenses**:
+  - Creating ambiguous markets (user vote)
+  - Wash trading / self-dealing
+  - Promoting markets with false information
+  - Creating duplicate markets (spam)
+
+- **Slash Percentage**: 10-100% of staked bond depending on severity
+- **Distribution of Slashed Tokens**: 50% burned, 50% to users who reported
+
+**Value Capture**: Forces quality, protects platform reputation, removes bad actors. Burned tokens are deflationary.
+
+**Expected Slashing** (Year 2): 500 creators × 2% bad actor rate × 25K tokens × 50% slash = 125,000 $PREDICT burned annually.
+
+---
+
+#### 6. Oracle Bonds (Settlement Driver)
+
+**Mechanic**: Stake $PREDICT to participate in crowdsourced bond pools
+
+- **Bond Pool Requirements**: UMA settlement requires $5K-50K bond per market
+- **Traditional Problem**: Single user must provide entire bond
+- **Our Solution**: Crowdsourced pools allow $100-1,000 contributions
+
+- **Token Utility**:
+  - Stake 5,000 $PREDICT → 10% higher share of settlement rewards
+  - Stake 25,000 $PREDICT → 25% higher share
+  - Stake 100,000 $PREDICT → 50% higher share
+
+- **Settlement Rewards**: Early contributors earn 2.0x rewards, late contributors 0.5x
+- **Token Multiplier**: Stacked on top of time-weighted rewards
+
+**Value Capture**: Users competing for highest settlement returns will stake tokens for multipliers.
+
+**Calculation** (Year 2): 12,000 markets × 20 participants per pool × 10K avg stake = 2.4B $PREDICT staked for oracle bonds (if staking is required; otherwise incentivized)
+
+---
+
+### Token Economics
+
+**Total Supply**: 100M $PREDICT (fixed, no inflation after initial emission)
+
+**Allocation**:
+- 40% (40M) - Liquidity Mining (4-year emission)
+- 25% (25M) - Team & Advisors (4-year vest, 1-year cliff)
+- 20% (20M) - Treasury (DAO-controlled, community votes on usage)
+- 15% (15M) - Investors (2-year vest, 6-month cliff)
+
+**Emission Schedule**:
+- Year 1: 20M tokens (liquidity mining + vesting starts)
+- Year 2: 10M tokens (emissions reduce)
+- Year 3: 6M tokens
+- Year 4: 4M tokens (final year, low inflation)
+- Year 5+: 0 tokens (no new issuance, fully deflationary with burns)
+
+**Deflationary Mechanisms**:
+1. Fee discount burns (50% of discount value)
+2. Slashed creator bonds (50% of slashing)
+3. Optional: Protocol buyback-and-burn (10-20% of platform fees used to buy $PREDICT from market and burn)
+
+**Expected Burn Rate** (Year 2):
+- Fee discounts: 50K $PREDICT/month
+- Slashing: 10K $PREDICT/month
+- Buyback (optional): 100K $PREDICT/month
+- **Total**: 160K $PREDICT/month = 1.92M/year (1.92% of supply)
+
+---
+
+### Value Capture Model (Year 3 Projections)
+
+**Platform Metrics**:
+- $200M annual volume
+- $2.88M platform fees (1.2%)
+- $1.44M creator fees (0.9% platform operator share)
+- **Total Revenue**: $4.32M
+
+**Token Value Accrual**:
+- **Fee Sharing**: 30-50% of platform fees → $864K-1.44M to stakers
+- **Staking Required for Discounts**: $5M-10M staked by traders
+- **Staking Required for Creator Boosts**: $10M-20M staked by creators
+- **Liquidity Mining**: $2M-5M annual value distributed
+- **Oracle Bonds**: $5M-10M staked for settlement rewards
+
+**Total Value Locked** (Year 3): $22M-45M (22-45% of circulating supply)
+
+**Token Price Implications**:
+- Circulating Supply: ~36M tokens (40M emitted - 4M burned)
+- TVL: $22M-45M
+- Annual revenue to token holders: $864K-1.44M
+- **Implied Market Cap**: $30M-100M (based on 3-7x revenue multiple for high-growth tokens)
+- **Price per Token**: $0.83-2.78
+
+**Investor Returns** (Seed Round at $0.10-0.15/token):
+- Token allocation: 15M tokens (15% of supply)
+- Investment: $1.5M-2.25M
+- Year 3 value: $12.5M-41.7M
+- **ROI**: 5.5x-18.5x in 3 years
+
+---
+
+### Why This Token Captures Value (Not Just Governance)
+
+**Most DeFi tokens fail because**: They're pure governance (no cash flow) or have weak utility (can be avoided).
+
+**Our token succeeds because**:
+1. **Required for Competitive Advantage**: High-volume traders MUST stake for fee discounts
+2. **Required for Creator Success**: Top creators MUST stake for higher fees + promotion
+3. **Required for Quality Control**: Creator bonds prevent spam and ensure quality
+4. **Cash Flow Positive**: 30-50% of platform fees directly distributed to stakers (not from token inflation)
+5. **Deflationary**: Burns + fixed supply → scarcity increases over time
+6. **Network Effects**: More usage → more fees → higher staking rewards → more demand for token
+
+**Comparison to Other Tokens**:
+- **UNI**: Pure governance, no cash flow → struggles to capture value
+- **GMX**: Fee sharing + utility → successful value capture
+- **MKR**: Buyback-and-burn + governance → successful value capture
+- **$PREDICT**: Fee sharing + utility + deflationary → **GMX + MKR hybrid model**
+
+---
+
+### Launch Strategy
+
+**Phase 1 - Pre-Launch** (Months 1-6):
+- Platform operates without token
+- Build user base, volume, and creator ecosystem
+- Prove product-market fit ($5M monthly volume)
+
+**Phase 2 - Token Generation Event** (Month 7-9):
+- Launch $PREDICT token via public sale or liquidity bootstrap
+- Initial liquidity: $500K-1M
+- List on DEXs (Uniswap, Curve)
+- Begin liquidity mining emissions
+
+**Phase 3 - Utility Activation** (Month 10-12):
+- Activate fee discounts (first utility)
+- Activate creator boosts (second utility)
+- Activate LP rewards (already running)
+
+**Phase 4 - Full Decentralization** (Month 13-24):
+- Activate governance votes
+- Activate slashing mechanism
+- Activate oracle bond multipliers
+- Transfer platform ownership to DAO
+
+**Timeline**: Q4 2025 launch target (12 months from seed funding)
+
+---
+
+### Exit Strategy for Investors
+
+**Three Paths to Liquidity**:
+
+1. **Token Launch** (Year 1-2):
+   - Public token sale
+   - DEX liquidity
+   - Vesting: 2-year linear vest, 6-month cliff
+   - Expected valuation: $20M-50M FDV
+
+2. **Strategic Acquisition** (Year 2-3):
+   - Polymarket, Coinbase, Robinhood, etc.
+   - Valuation: $50M-200M
+   - Investors receive cash + acquirer's equity
+
+3. **Secondary Token Sales** (Year 3+):
+   - OTC sales to funds/institutions
+   - Token price: $0.83-2.78 (5.5x-18.5x seed return)
+   - Liquid market on DEXs
+
+**Recommended Strategy**: Hold through token launch, begin selling after 6-12 months of vesting. Expected exit window: 18-30 months from seed investment.
 
 ---
 
