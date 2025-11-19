@@ -10,7 +10,7 @@
 [![dAppable.ai](https://img.shields.io/badge/infrastructure-dAppable.ai-blue.svg)](https://dappable.ai)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-**Version 1.0 | January 2025**
+**Version 1.0 | October 2025**
 
 > **This is not a standalone app. This is a template demonstrating dAppable.ai's Infrastructure-as-a-Service for Web3.**
 
@@ -973,7 +973,7 @@ if (confidence > 0.7) {
 
 ## Roadmap
 
-### Q1 2025: Foundation ✅
+### Q4 2025: Foundation ✅
 
 <table>
 <tr>
@@ -982,71 +982,107 @@ if (confidence > 0.7) {
 **Completed**
 - ✅ Core contracts (Factory + Market)
 - ✅ UMA OOv3 integration
-- ✅ Multi-chain deployment
+- ✅ Multi-chain deployment (Ethereum + Base)
 - ✅ Crowdsourced bond pools
 - ✅ Multi-tier fee system
 - ✅ Module architecture
+- ✅ Production deployment
+- ✅ Documentation & guides
 
 </td>
 <td width="50%">
 
 **In Progress**
-- 🔄 Third-party audit
+- 🔄 Third-party security audit
 - 🔄 Subgraph indexing
-- 🔄 Frontend MVP
+- 🔄 Frontend UI polish
 - 🔄 SDK v1.0
-- 🔄 Documentation
+- 🔄 Builder onboarding materials
 
 </td>
 </tr>
 </table>
 
-### Q2 2025: Growth 🌱
+### Q1 2026: Builder Ecosystem 🛠️
 
-- 📱 Mobile application (iOS & Android)
-- 📈 Analytics dashboard
-- 🛠️ Creator tools & templates
-- 🤝 DAO partnerships (5+)
-- 💧 Liquidity incentives
-- 📊 Market maker program
+**dAppable.ai Platform Launch:**
+- 🌐 Vibe coding web app public beta
+- 📦 Template marketplace (prediction markets + other dApps)
+- 🔧 No-code customization interface
+- 📚 Comprehensive builder documentation
+- 🎓 Video tutorials & quickstart guides
 
-### Q3 2025: Expansion 🚀
+**Infrastructure Enhancements:**
+- 🔄 Smart Transactions integration (conditional logic layer)
+- 🤖 AI agent SDK v1.0
+- 📱 Mobile-responsive UI templates
+- 🔗 Multi-chain deployment automation
 
+### Q2 2026: Growth & Adoption 🌱
+
+**Builder Support:**
+- 🤝 DAO partnerships (5+ white-label deployments)
+- 🎯 Creator tools & market templates
+- 💧 Liquidity bootstrapping guides
+- 📊 Market maker program & bots
+- 🏆 Builder grants program ($50K-100K)
+
+**Feature Expansion:**
+- 📈 Analytics dashboard for market creators
+- 🔮 Alternative oracle modules (Chainlink, API3)
+- 🔢 Multi-outcome market templates
+- 📱 Mobile app templates (iOS & Android)
+
+### Q3 2026: Advanced Features 🚀
+
+**Smart Transactions Layer:**
+- 🔗 Conditional market execution
+- 🤖 FCT (Flexible Call Transactions) integration
+- 🧠 AI-driven decision trees
+- ⚙️ Transaction orchestration tools
+
+**Modular Expansion:**
 - 🔢 Multi-outcome markets
-- 🔗 Conditional markets
-- 🌉 Cross-chain creation
-- 🔮 Alternative oracles (Chainlink, API3)
-- 📈 Advanced AMM modules
-- 🪙 LP tokens
+- 🔗 Combinatorial markets (A AND B)
+- 🌉 Cross-chain market creation
+- 📈 Advanced AMM modules (order book, hybrid)
+- 🪙 LP token systems
 
-### Q4 2025: Enterprise 🏢
+### Q4 2026: Enterprise & Scale 🏢
 
-- 🏢 Enterprise API
-- 🤖 AI agent SDK
-- 🔄 Market maker bots
-- 🏷️ White-label solutions
-- 🗳️ Advanced governance
+**Enterprise Solutions:**
+- 🏢 Enterprise API with SLAs
+- 🏷️ White-label platform licensing
+- 🔒 Private deployment options
+- 📞 Dedicated support channels
 - 🤝 Institutional partnerships
 
-### 2026+: Scale 🌟
+**AI Agent Economy:**
+- 🤖 Autonomous market creation bots
+- 🔄 Self-managing liquidity bots
+- 🎯 Sentiment analysis integrations
+- 📊 Cross-platform arbitrage tools
 
-**Technical:**
-- Layer 2 rollups (Optimism, Arbitrum)
-- ZK privacy features
-- Cross-chain bridges
-- Advanced statistical models
+### 2027+: Ecosystem Leadership 🌟
 
-**Product:**
-- Prediction portfolios & indices
-- Social features & leaderboards
-- Automated market discovery
-- Template marketplace
+**Technical Infrastructure:**
+- 🌐 Additional L2 support (Optimism, Arbitrum, etc.)
+- 🔒 ZK privacy features
+- 🌉 Cross-chain bridges & interoperability
+- 📊 Advanced statistical models & pricing
 
-**Ecosystem:**
-- Developer grants program
-- Creator certification
-- Educational content
-- Community governance transition
+**Platform Ecosystem:**
+- 🏪 Template marketplace (100+ dApp templates)
+- 📈 Prediction portfolios & indices
+- 👥 Social features & leaderboards
+- 🔍 Automated market discovery
+- 🎓 Builder certification program
+
+**Community & Governance:**
+- 💰 Developer grants program expansion
+- 🗳️ DAO governance transition
+- 🎓 Educational content & workshops
+- 🌍 Global builder community
 
 ---
 
