@@ -4,6 +4,17 @@
 
 ---
 
+## 🔗 Contract ABIs
+
+Before diving into the guides, download the contract ABIs:
+
+- **[PredictionMarket.json](../abi/PredictionMarket.json)** - Market contract ABI ([Raw](https://raw.githubusercontent.com/kiroboio/prediction-ai-docs/main/abi/PredictionMarket.json))
+- **[PredictionMarketFactory.json](../abi/PredictionMarketFactory.json)** - Factory contract ABI ([Raw](https://raw.githubusercontent.com/kiroboio/prediction-ai-docs/main/abi/PredictionMarketFactory.json))
+
+See the **[ABI Documentation](../abi/)** for code examples in multiple languages.
+
+---
+
 ## 📚 Available Guides
 
 ### For DApp Developers

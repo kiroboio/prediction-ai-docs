@@ -21,6 +21,11 @@
 | **[Shareholders Paper](README.md)** | Business plan, financial projections, investment thesis | Investors, stakeholders |
 | **[Technical Whitepaper](WHITEPAPER.md)** *(You are here)* | System architecture, technology deep-dive, implementation | Developers, technical audience |
 | **[Integration Guides](guides/)** | Developer guides for building on the platform | DApp developers, AI agents, integrators |
+| **[Contract ABIs](abi/)** | JSON ABIs for smart contract integration | All developers |
+
+### 🔗 Quick Links
+- [PredictionMarket.json](abi/PredictionMarket.json) - Market contract ABI
+- [PredictionMarketFactory.json](abi/PredictionMarketFactory.json) - Factory contract ABI
 
 ---
 
