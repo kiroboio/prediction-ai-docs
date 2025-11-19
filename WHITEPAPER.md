@@ -806,41 +806,6 @@ Prevents abuse
 </tr>
 </table>
 
-### Audit Status
-
-<table>
-<tr>
-<th>Audit Type</th>
-<th>Status</th>
-<th>Timeline</th>
-</tr>
-<tr>
-<td>Internal Security Review</td>
-<td bgcolor="#dcfce7">✅ Completed</td>
-<td>December 2024</td>
-</tr>
-<tr>
-<td>Formal Verification (Math)</td>
-<td bgcolor="#dcfce7">✅ Completed</td>
-<td>December 2024</td>
-</tr>
-<tr>
-<td>Gas Optimization Analysis</td>
-<td bgcolor="#dcfce7">✅ Completed</td>
-<td>January 2025</td>
-</tr>
-<tr>
-<td>Third-Party Security Audit</td>
-<td bgcolor="#fef3c7">📅 Planned</td>
-<td>Q2 2025</td>
-</tr>
-<tr>
-<td>Economic Model Verification</td>
-<td bgcolor="#fef3c7">📅 Planned</td>
-<td>Q2 2025</td>
-</tr>
-</table>
-
 ---
 
 ## Use Cases & Applications
