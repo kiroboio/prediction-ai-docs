@@ -20,6 +20,7 @@
 |----------|-------------|----------|
 | **[Shareholders Paper](README.md)** | Business plan, financial projections, investment thesis | Investors, stakeholders |
 | **[Technical Whitepaper](WHITEPAPER.md)** *(You are here)* | System architecture, technology deep-dive, implementation | Developers, technical audience |
+| **[Integration Guides](guides/)** | Developer guides for building on the platform | DApp developers, AI agents, integrators |
 
 ---
 
