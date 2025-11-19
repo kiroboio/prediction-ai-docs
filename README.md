@@ -59,9 +59,42 @@
 
 ## Executive Summary
 
+### The Vision
+
+**We are building the marketplace where humans + AI price the future.**
+
+Not just another prediction market app—we're building the **infrastructure layer** for how the world discovers truth and prices uncertainty in the age of AI agents.
+
+**The Shift We're Capturing**:
+- **Today**: Prediction markets are niche apps for crypto traders
+- **Tomorrow**: Prediction markets are the fundamental coordination layer for autonomous agents + human forecasters
+- **Our Bet**: Every decision (DAO votes, fund allocations, policy debates, product launches) will be informed by prediction markets
+
+**Why Now**: 2025 is the inflection point where AI agents become economic actors. They need a trustless way to:
+- **Price uncertainty** (Will this bill pass? Will ETH hit $5K?)
+- **Coordinate actions** (Hedge positions, arbitrage opportunities)
+- **Discover truth** (Signal vs noise in a world of information overload)
+
+**We're not building for 100K crypto users. We're building for 100M AI agents + billions of humans who need to price the future.**
+
+---
+
 ### The Opportunity
 
-The global prediction markets and betting industry represents a **$200B+ annual market**, with traditional players capturing the majority through centralized, often opaque platforms. The emergence of blockchain technology and decentralized finance has created a unique opportunity to disrupt this market with a trustless, transparent, and user-owned alternative.
+The global prediction markets and betting industry represents a **$200B+ annual market**, but the REAL opportunity is much bigger: **prediction markets as infrastructure for AI coordination**.
+
+**Today's Market** (Small):
+- Polymarket: $3B volume (crypto traders)
+- Traditional betting: $200B (sports, politics)
+- Total addressable: $5B-10B crypto-native users
+
+**Tomorrow's Market** (Massive):
+- AI agent economy: **$1T+ by 2030** (Goldman Sachs)
+- Every autonomous agent needs to price uncertainty and coordinate actions
+- Prediction markets become the **coordination layer** for multi-agent systems
+- Total addressable: **Every economic decision globally**
+
+**The Paradigm Shift**: From "gambling app" to "infrastructure for pricing the future"
 
 ### Our Solution
 
@@ -114,23 +147,69 @@ We're building the **only prediction market platform designed for creators and A
 
 ### Total Addressable Market (TAM)
 
-#### 1. Prediction Markets: $200M-500M Annual Volume
+**The Real TAM Isn't "Prediction Markets"—It's "Infrastructure for Pricing the Future"**
+
+We're not competing for a slice of the $200B betting market. We're building the coordination layer for the AI agent economy.
+
+---
+
+#### The Paradigm Shift: From App to Infrastructure
+
+**Yesterday's Thinking** (Too Small):
+- TAM = Prediction market users (100K-1M people)
+- SAM = Crypto-native bettors
+- SOM = 1-5% market share of Polymarket
+
+**Today's Thinking** (Infrastructure Play):
+- TAM = **Every decision that involves uncertainty** (trillions of decisions annually)
+- SAM = AI agents + humans who need to price the future
+- SOM = Become the default infrastructure layer (like Uniswap for swaps)
+
+---
+
+#### 1. AI Agent Economy: $1T+ by 2030 (The REAL TAM)
+
+**Why AI Agents Need Prediction Markets**:
+- **Portfolio Management Bots**: Hedge macro positions using prediction markets (e.g., "Will Fed cut rates?" → adjust DeFi positions)
+- **DAO Governance Bots**: Price proposal outcomes before voting (e.g., "Will this proposal increase token price?" → vote accordingly)
+- **Trading Bots**: Arbitrage between prediction markets and real assets (e.g., Polymarket says 70% Trump win → buy Truth Social stock)
+- **News Aggregation Bots**: Use prediction market prices as truth signal (e.g., "Is this news real or fake?" → check prediction market consensus)
+- **Risk Management Bots**: Continuous hedging via prediction markets (e.g., stablecoin exposure → bet against depeg events)
+
+**Market Size**:
+- **Goldman Sachs**: AI agent economy reaches $1T+ by 2030
+- **Our Capture**: If 1% of agent transactions involve prediction markets = **$10B annual volume**
+- **Our Revenue**: At 5% total fees = **$500M annual revenue**
+
+**Why We Win This**: API-first design, bot-native economics, crowdsourced settlement (agents can participate in oracle consensus)
+
+---
+
+#### 2. Traditional Prediction Markets: $200M-500M Annual Volume (Starting Point)
 
 **Current Players**:
-- **Polymarket**: $3B+ total volume (2024), primarily on crypto/politics
+- **Polymarket**: $3B+ total volume (2024), primarily crypto/politics
 - **Augur**: $20M+ annual volume (declining)
 - **PredictIt**: $100M+ annual volume (U.S. regulated)
 - **Kalshi**: $50M+ annual volume (CFTC-regulated)
 
 **Market Growth**: 40-60% CAGR (2024-2028)
 
-#### 2. Crypto Betting & Gaming: $5B Annual Volume
+**Our Role**: Bootstrap liquidity and user base here, then expand to AI agent coordination
+
+---
+
+#### 3. Crypto Betting & Gaming: $5B Annual Volume (Adjacent Market)
 
 - **Rollbit**: $2B+ annual volume
 - **DeFi Gaming Protocols**: $1B+ combined
 - **NFT Prediction Games**: Emerging category
 
-#### 3. Traditional Betting (Addressable): $200B+ Global Market
+**Cross-Pollination**: Crypto users familiar with on-chain betting are early adopters
+
+---
+
+#### 4. Traditional Betting: $200B+ Global Market (Long-Term Expansion)
 
 **Segments**:
 - **Sports Betting**: $150B+ (5-10% potentially addressable via crypto)
@@ -139,6 +218,23 @@ We're building the **only prediction market platform designed for creators and A
 - **Financial Derivatives**: $20B+ (prediction market alternative)
 
 **Crypto Penetration Opportunity**: Even 1% of traditional betting moving to crypto = $2B annual volume
+
+---
+
+### The Infrastructure Thesis
+
+**We're Not Building**:
+- A better Polymarket (incremental improvement)
+- A niche DeFi app (limited TAM)
+- A gambling platform (regulatory risk)
+
+**We're Building**:
+- The coordination layer for AI agents + humans to price uncertainty
+- Infrastructure that becomes MORE valuable as AI agents proliferate
+- A trustless alternative to centralized forecasting (Nate Silver, prediction polls)
+- The "Uniswap for truth discovery" (default infrastructure, not an app)
+
+**The Bet**: In 5 years, every major decision (government policy, DAO votes, fund allocations, product launches) will be informed by prediction market pricing—and we're the infrastructure layer enabling that.
 
 ### Serviceable Addressable Market (SAM)
 
@@ -1960,36 +2056,145 @@ This isn't a feature difference—it's an **architectural choice** that creates 
 
 ### Investment Thesis
 
+**We are building the marketplace where humans + AI price the future.**
+
+This isn't a prediction market app—it's **infrastructure for the AI agent economy**.
+
+---
+
+#### The Big Bet
+
 **Polymarket is liquidity-first. We are creator-first + AI-first.**
 
-This single strategic difference creates **fundamentally different flywheels**:
+This single strategic difference creates **fundamentally different flywheels** and positions us to capture the **$1T+ AI agent economy**, not just the $3B prediction market niche.
 
-- **Polymarket**: Liquidity → Traders → Volume → More Liquidity (requires constant capital injection)
-- **Us**: Creators + AI Agents → Markets + Distribution → Volume → Liquidity (self-sustaining network effects)
+**Polymarket's Flywheel** (Capital Intensive):
+- Liquidity → Traders → Volume → More Liquidity
+- Requires constant capital injection
+- Limited to human traders (100K users)
+- TAM: $5B-10B (crypto betting market)
 
-**Why This Wins**:
+**Our Flywheel** (Network Effects):
+- Creators + AI Agents → Markets + Distribution → Volume → Liquidity
+- Self-sustaining through creator fees + token incentives
+- Scales to 100M+ AI agents
+- TAM: $1T+ (AI agent economy infrastructure)
 
-1. **Creators bring built-in distribution** (500K-5M followers each) → instant user base without paid marketing
-2. **AI agents scale infinitely** (1,000x more markets than humans) → unlimited inventory
-3. **Liquidity follows volume**, not the other way around → capital efficient
+---
 
-**Three-Pillar Moat**:
-1. **Creator Ecosystem**: 1.8% fee baked into smart contracts (Polymarket can't copy without redeploying all contracts)
-2. **Liquidity Infrastructure**: AMM + MM incentives + token rewards (decentralized, not reliant on centralized MMs)
-3. **AI Agent Economy**: API-first design from day one (Polymarket's API is an afterthought)
+#### Why This Wins (Infrastructure > App)
 
-**The market opportunity is proven** ($3B+ Polymarket volume), **the timing is perfect** (2025 = AI agent economy), and **we're the only platform built for creators + AI agents**.
+**1. Creators Bring Built-In Distribution**
+- 500K-5M followers each → instant user base without paid marketing
+- Top 50 influencers = 50M+ combined reach
+- Network effects: More creators → more markets → more users → more liquidity
 
-**With $500K-1M seed funding, we will**:
+**2. AI Agents Scale Infinitely**
+- 1,000x more markets than humans can create
+- 24/7 liquidity provision (automated market making)
+- Autonomous hedging, arbitrage, sentiment analysis
+- **Goldman Sachs**: AI agent economy = $1T+ by 2030
+
+**3. Infrastructure Captures More Value Than Apps**
+- Uniswap (infrastructure): $5B market cap, 70% DEX dominance
+- 1inch (app): $500M market cap, competes on UX
+- We're building Uniswap for truth discovery, not another 1inch
+
+**4. Liquidity Follows Volume, Not The Other Way Around**
+- Traditional thinking: Raise $10M → provide liquidity → attract users
+- Infrastructure thinking: Build creator + agent network → volume happens → liquidity follows
+- Capital efficient: We need $500K-1M, not $10M+
+
+---
+
+#### Three-Pillar Moat (Defensible Infrastructure)
+
+**1. Creator Ecosystem** (Network Effects)
+- 1.8% fee baked into smart contracts (Polymarket can't copy without redeploying all contracts)
+- Top creators earning $100K-1M annually (locked in by economics, not marketing)
+- Cost to replicate: $5M-10M + 12-18 months
+
+**2. Liquidity Infrastructure** (Capital Efficiency)
+- AMM + MM incentives + token rewards (decentralized, not reliant on centralized MMs)
+- $500K bootstraps 50-100 featured markets
+- Cost to replicate: $1M-2M + token allocation
+
+**3. AI Agent Economy** (Future-Proof)
+- API-first design from day one (Polymarket's API is an afterthought)
+- Comprehensive SDKs, bot-friendly economics, agent-native settlement
+- Cost to replicate: $500K-1M + developer ecosystem
+
+**Total Cost to Replicate**: $6.5M-13M + 18-24 months (we're doing it for $500K-1M in 12 months)
+
+---
+
+#### Market Timing (Why 2025?)
+
+**The market opportunity is proven** ($3B+ Polymarket volume proves demand)
+
+**The timing is perfect**:
+- **2025 = AI Agent Inflection Point**: Agents become economic actors needing coordination infrastructure
+- **Regulatory Clarity**: 2024-2025 crypto regulations improving market access
+- **L2 Scaling**: Base and other L2s make transactions <$0.50
+- **Creator Economy Peak**: Influencers seeking new monetization beyond ads/subscriptions
+
+**The window is closing**: First-mover advantage in AI agent infrastructure lasts 12-18 months before competitors catch up.
+
+---
+
+#### With $500K-1M Seed Funding, We Will
+
+**Near-Term** (12 months):
 - Lock in top 50 crypto influencers with "Founder Tier" fees (3.0% vs 1.8%)
-- Build the deepest liquidity via token incentives (not centralized MMs)
+- Build deepest liquidity via token incentives (not centralized MMs)
 - Launch AI agent SDK and capture autonomous trading volume
-- Achieve $200M annual volume by Year 3 (4% of market)
-- Reach profitability through creator-driven network effects (not paid acquisition)
+- Achieve $5M monthly volume → $60K monthly revenue
 
-**Cost to Replicate Our Moat**: $6.5M-13M + 18-24 months (we're doing it for $500K-1M in 12 months)
+**Medium-Term** (24 months):
+- Scale to 500+ active creators with proven earnings ($50M+ annual creator revenue)
+- 1,000+ AI agent accounts actively creating/trading markets
+- $50M monthly volume → $600K monthly revenue
+- Token launch: $20M-50M FDV
 
-**This is the only prediction market platform architected for the creator economy + AI agent economy.** Polymarket is defending yesterday's model (liquidity-first). We're building tomorrow's model (creator-first + AI-first).
+**Long-Term** (36 months):
+- Become default infrastructure for AI agent coordination (like Uniswap for swaps)
+- $200M monthly volume → $2.4M monthly revenue
+- 10,000+ AI agents, 2,000+ creators, 200K+ users
+- $30M-100M market cap (5.5x-18.5x seed return)
+
+---
+
+#### Why VCs Should Care (Infrastructure Bet)
+
+**This Is Not**:
+- A better Polymarket (incremental improvement, limited upside)
+- A niche DeFi app (small TAM, crowded market)
+- A gambling platform (regulatory risk, low multiples)
+
+**This Is**:
+- **Infrastructure for the AI agent economy** ($1T+ TAM)
+- **The coordination layer for pricing uncertainty** (every decision globally)
+- **Network effects moat** (creators + agents create compounding value)
+- **B2B2C model** (creators bring users, agents bring volume)
+- **Token with real utility** (fee sharing + 6 value capture mechanisms)
+- **Capital efficient** ($500K-1M gets to profitability, not $10M+)
+
+**Comparable Infrastructure Plays**:
+- Uniswap: DEX infrastructure → $5B market cap
+- Chainlink: Oracle infrastructure → $8B market cap
+- The Graph: Indexing infrastructure → $2B market cap
+- **Us**: Truth discovery infrastructure → $1B+ potential
+
+**Exit Scenarios**:
+- Strategic acquisition: Polymarket, Coinbase, Robinhood ($50M-200M)
+- Token launch: $20M-50M FDV → $100M-500M after 2 years
+- IPO path: Sustainable, high-margin infrastructure business
+
+---
+
+#### The Thesis in One Sentence
+
+**Polymarket is defending yesterday's model (liquidity-first, human-only, $3B TAM). We're building tomorrow's infrastructure (creator-first + AI-first, autonomous coordination, $1T+ TAM).**
 
 ### Investment Highlights Summary
 
