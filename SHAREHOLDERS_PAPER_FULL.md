@@ -1,32 +1,32 @@
 # Prediction Market Platform
-## Kirobo Documentation Hub
-
-> **Decentralized Prediction Markets Built on UMA Protocol**
-
----
-
-## 📚 Available Documents
-
-| Document | Description | Audience |
-|----------|-------------|----------|
-| **[Shareholders Paper](README.md)** *(You are here)* | Business plan, financial projections, investment thesis | Investors, stakeholders |
-| **[Technical Whitepaper](WHITEPAPER.md)** | System architecture, technology deep-dive, implementation | Developers, technical audience |
-| **[Integration Guides](guides/)** | Developer guides for building on the platform | DApp developers, AI agents, integrators |
-| **[Contract ABIs](abi/)** | JSON ABIs for smart contract integration | All developers |
-
-### 🔗 Quick Links
-- [PredictionMarket.json](abi/PredictionMarket.json) - Market contract ABI
-- [PredictionMarketFactory.json](abi/PredictionMarketFactory.json) - Factory contract ABI
-
----
-
-# Shareholders & Investor Overview
+## Shareholders & Investor Overview
 
 **Business Plan & Financial Projections**
 
 **Version 1.0**
 **November 2025**
 **Confidential**
+
+---
+
+## Table of Contents
+
+1. [Executive Summary](#executive-summary)
+2. [Market Opportunity](#market-opportunity)
+3. [Business Model & Revenue Streams](#business-model--revenue-streams)
+4. [Competitive Analysis](#competitive-analysis)
+5. [Financial Projections](#financial-projections)
+6. [Market Penetration Strategy](#market-penetration-strategy)
+7. [Technology Advantages](#technology-advantages)
+8. [Risk Analysis](#risk-analysis)
+9. [Investment Highlights](#investment-highlights)
+10. [Growth Roadmap](#growth-roadmap)
+11. [Team & Execution](#team--execution)
+12. [Appendix: Key Metrics](#appendix-key-metrics)
+
+---
+
+## Executive Summary
 
 ### The Opportunity
 
