@@ -159,14 +159,6 @@ USDC: 0x036CbD53842c5426634e7929541eC2318f3dCF7e
 
 ---
 
-## Support
-
-- **GitHub**: [kiroboio/ki-prediction-ai](https://github.com/kiroboio/ki-prediction-ai)
-- **Documentation**: [kiroboio.github.io/prediction-ai-docs](https://kiroboio.github.io/prediction-ai-docs)
-- **Issues**: [Report a bug](https://github.com/kiroboio/ki-prediction-ai/issues)
-
----
-
 ## License
 
 MIT License - see [LICENSE](../LICENSE) for details
