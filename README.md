@@ -45,15 +45,12 @@
 3. [Business Model & Revenue Streams](#business-model--revenue-streams)
 4. [Competitive Analysis](#competitive-analysis)
 5. [Financial Projections](#financial-projections)
-6. [Market Penetration Strategy](#market-penetration-strategy)
-7. [Technology Advantages](#technology-advantages)
-8. [The Moat: Why We're Defensible](#the-moat-why-were-defensible)
-9. [Risk Analysis](#risk-analysis)
-10. [Investment Highlights](#investment-highlights)
-11. [Token Utility: How Investors Capture Value](#token-utility-how-investors-capture-value)
-12. [Growth Roadmap](#growth-roadmap)
-13. [Execution & Traction](#execution--traction)
-14. [Appendix: Key Metrics](#appendix-key-metrics)
+6. [Technology Advantages](#technology-advantages)
+7. [The Moat: Why We're Defensible](#the-moat-why-were-defensible)
+8. [Risk Analysis](#risk-analysis)
+9. [Token Utility: How Investors Capture Value](#token-utility-how-investors-capture-value)
+10. [Appendix: Key Metrics](#appendix-key-metrics)
+11. [Summary & Investment Thesis](#summary--investment-thesis)
 
 ---
 
