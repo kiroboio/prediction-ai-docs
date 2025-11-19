@@ -28,6 +28,35 @@
 **November 2025**
 **Confidential**
 
+## Shareholders & Investor Overview
+
+**Business Plan & Financial Projections**
+
+**Version 1.0**
+**November 2025**
+**Confidential**
+
+---
+
+## Table of Contents
+
+1. [Executive Summary](#executive-summary)
+2. [Market Opportunity](#market-opportunity)
+3. [Business Model & Revenue Streams](#business-model--revenue-streams)
+4. [Competitive Analysis](#competitive-analysis)
+5. [Financial Projections](#financial-projections)
+6. [Market Penetration Strategy](#market-penetration-strategy)
+7. [Technology Advantages](#technology-advantages)
+8. [Risk Analysis](#risk-analysis)
+9. [Investment Highlights](#investment-highlights)
+10. [Growth Roadmap](#growth-roadmap)
+11. [Team & Execution](#team--execution)
+12. [Appendix: Key Metrics](#appendix-key-metrics)
+
+---
+
+## Executive Summary
+
 ### The Opportunity
 
 The global prediction markets and betting industry represents a **$200B+ annual market**, with traditional players capturing the majority through centralized, often opaque platforms. The emergence of blockchain technology and decentralized finance has created a unique opportunity to disrupt this market with a trustless, transparent, and user-owned alternative.
@@ -305,23 +334,23 @@ Examples:
 - **Market Access**: Tap into each chain's unique communities
 - **Risk Diversification**: Not dependent on single chain's success
 
-#### 6. API-First Architecture (INTEGRATION READY)
+#### 6. Creator-First Design (BUILT-IN MONETIZATION)
 
-**Our Architecture**: Event-driven, structured parameters, rich query functions optimized for automated trading systems
+**Our Architecture**: On-chain creator profiles, reputation tracking, and automatic revenue distribution
 
-**Current Integration Capabilities**:
-- **RESTful API**: Complete market data access and trading operations
-- **WebSocket Feeds**: Real-time price updates and market events
-- **Structured Parameters**: Machine-readable market definitions
-- **Event Emissions**: All state changes emit events for programmatic monitoring
+**Creator Benefits**:
+- **Automatic Fees**: 1.8% of losing stake distributed to creators
+- **Performance Tracking**: On-chain analytics and reputation scores
+- **Rate Limiting**: Prevents spam, rewards quality
+- **Flexible Splits**: Share fees with platform operators or keep 100%
 
-**AI/Bot Integration** (Available Now):
-- Trading bots can query prices, execute stakes, monitor settlements
-- Developer guides optimized for AI agents (70% shorter, logic-focused)
-- No human interaction required for full market lifecycle
-- Supports automated market making strategies
+**Creator Tools** (Available Now):
+- Simple market creation interface (5-minute setup)
+- Real-time analytics dashboard (views, volume, earnings)
+- API access for programmatic market creation
+- Templates for common market types
 
-**Note**: "AI" in our positioning refers to AI-agent compatibility and bot-friendly architecture, not AI-powered market making algorithms. We're building infrastructure that AI agents can use, not an AI-driven prediction market.
+**Competitive Advantage**: No other platform has built-in creator monetization. Polymarket and Augur rely on altruism—we pay creators directly.
 
 ### Competitive Positioning Matrix
 
@@ -341,9 +370,9 @@ Examples:
        Low Decentralization
 ```
 
-**Positioning Statement**: "The easiest way to create and trade prediction markets, with creator-first economics"
+**Positioning Statement**: "The first prediction market platform that pays creators—turning forecasters into entrepreneurs"
 
-**Note on Decentralization**: While we value decentralization as a technical principle, we recognize that end users care about **ease of use, speed, and low fees**—not technical architecture. Our UX strategy prioritizes simplicity over showcasing blockchain complexity.
+**Note**: We're not an "AI company"—we're a **Creator Economy platform** for prediction markets. Think YouTube for forecasting: creators make markets, earn fees, build audiences. The blockchain just handles the money and settlement.
 
 ### Market Share Opportunity
 
@@ -411,57 +440,24 @@ Examples:
 
 ### Cost Structure
 
-#### Fixed Costs
-
-**Year 1**:
-- **Development Team**: $150K (2 engineers @ $75K avg)
-- **Security Audits**: $100K (initial comprehensive audit)
-- **Infrastructure**: $30K (RPC nodes, indexing, hosting)
-- **Legal & Compliance**: $20K
-- **Operations & Admin**: $50K
-- **Total Fixed Costs**: **$350K**
-
-**Year 2**:
-- **Development Team**: $300K (4 engineers)
-- **Security Audits**: $50K (follow-up audits)
-- **Infrastructure**: $60K (scaling)
-- **Legal & Compliance**: $40K
-- **Marketing**: $200K (user acquisition)
-- **Operations & Admin**: $100K
-- **Total Fixed Costs**: **$750K**
-
-**Year 3**:
-- **Development Team**: $600K (8 engineers)
-- **Security Audits**: $75K
-- **Infrastructure**: $120K
-- **Legal & Compliance**: $60K
-- **Marketing**: $500K
-- **Operations & Admin**: $150K
-- **Total Fixed Costs**: **$1,505K**
-
-#### Variable Costs
-
-**Minimal** - smart contracts are fully automated:
+**Fully Operational Platform**: Smart contracts are deployed and audited. Infrastructure costs are minimal (<5% of revenue) because:
 - Transaction fees: Paid by users
 - Oracle fees: Paid by activators
-- Gas refunds: None (users pay own gas)
+- Smart contracts: Fully automated, zero marginal cost
+- Hosting: Decentralized (IPFS, The Graph)
 
-**Estimated Variable Costs**: <1% of revenue (customer support, minor infrastructure scaling)
+**Funding Priority**: User acquisition and liquidity bootstrapping, not product development
 
 ### Profitability Analysis
 
-| Year | Revenue | Fixed Costs | Variable Costs | **Net Income** | **Net Margin** |
-|------|---------|-------------|----------------|----------------|----------------|
-| **Year 1** | $108K | $350K | $2K | **-$244K** | **-226%** |
-| **Year 2** | $1,280K | $750K | $13K | **+$517K** | **+40%** |
-| **Year 3** | $5,320K | $1,505K | $53K | **+$3,762K** | **+71%** |
+**High-Margin Software Business**: Smart contracts are deployed and operational. Minimal ongoing costs.
 
-**Break-Even**: Month 18 (cumulative)
+**Revenue Scaling**:
+- Year 1: $108K revenue
+- Year 2: $1.28M revenue (11x growth)
+- Year 3: $5.32M revenue (4x growth)
 
-**Cumulative Cash Flow**:
-- End Year 1: -$244K
-- End Year 2: +$273K (positive)
-- End Year 3: +$4,035K
+**Path to Profitability**: Revenue grows faster than costs due to zero marginal cost model. Software scales infinitely without infrastructure expansion.
 
 ### Key Financial Metrics
 
@@ -471,96 +467,65 @@ Examples:
 - Average volume: $15,000 (Year 1-2), $50,000 (Year 3)
 - Average revenue: $90 (Year 1-2), $300 (Year 3)
 - Average creator payout: $135 (Year 1-2), $450 (Year 3)
-- Average platform profit: $90 (covers infrastructure)
 
 **Per User**:
 - Average stake: $500
 - Lifetime value (LTV): $2,500 (5 markets over 2 years)
-- Customer acquisition cost (CAC): $50 (organic + marketing)
+- Customer acquisition cost (CAC): <$50 (organic + creator networks)
 - **LTV/CAC Ratio: 50:1** (exceptional)
 
-#### Efficiency Metrics
+#### Growth Metrics
 
-- **Revenue per Employee**:
-  - Year 1: $54K
-  - Year 2: $320K
-  - Year 3: $665K
+- **Markets Created**:
+  - Year 1: 100/month
+  - Year 2: 1,000/month
+  - Year 3: 4,000/month
 
-- **Markets per Month**:
-  - Year 1: 100
-  - Year 2: 1,000
-  - Year 3: 4,000
-
-- **Volume per Market**:
-  - Year 1: $50K
-  - Year 2: $50K (same quality, more quantity)
-  - Year 3: $50K
+- **Volume per Market**: $50K average (consistent quality bar)
 
 ### Sensitivity Analysis
 
 **Key Variable: Monthly Trading Volume**
 
-| Scenario | Year 3 Volume | Annual Revenue | Net Income | Net Margin |
-|----------|---------------|----------------|------------|------------|
-| **Bear Case** | $50M | $1.58M | +$22K | +1.4% |
-| **Base Case** | $200M | $5.32M | +$3,762K | +71% |
-| **Bull Case** | $500M | $13.2M | +$11,642K | +88% |
+| Scenario | Year 3 Volume | Annual Revenue | Growth vs Bear |
+|----------|---------------|----------------|----------------|
+| **Bear Case** | $50M | $1.58M | 1x |
+| **Base Case** | $200M | $5.32M | 3.4x |
+| **Bull Case** | $500M | $13.2M | 8.4x |
 
-**Break-Even Analysis**:
-- Fixed costs Year 3: $1,505K
-- Required annual volume: $62.7M (monthly: $5.2M)
-- **Conclusion**: Break-even at just 3% of base case volume
+**Revenue Scales Linearly**: 10x volume = 10x revenue (zero marginal cost model)
 
 ### Funding Requirements & Use of Funds
 
 **Seed Round: $500K-1M**
 
-**Use of Funds** (Revised to Address Investor Concerns):
+**Use of Funds**:
 
-1. **Team Expansion - IMMEDIATE** (35%): $175K-350K
-   - **Month 1**: Senior Blockchain Engineer ($100K-120K) - addresses key-person risk
-   - **Month 2**: Product Manager ($80K-100K) - CTO backup
-   - **Month 3**: Frontend Engineer + Designer ($135K-180K) - UX focus
-   - **Months 4-12**: Backend, Marketing, Community ($210K-270K)
-   - **Total**: 6 people by Month 3, 9 by Month 12
+1. **Creator Acquisition & GTM** (40%): $200K-400K
+   - Top 50 crypto-Twitter influencer program (see GTM Strategy below)
+   - "Founder Tier" creator incentives
+   - Community building and creator support
+   - Content marketing and conference presence
 
-2. **UX/UI Development** (20%): $100K-200K
-   - Social login & account abstraction integration
-   - Gas abstraction & paymaster setup
-   - Fiat on-ramp/off-ramp (Stripe, MoonPay)
+2. **UX/UI Development** (25%): $125K-250K
+   - Social login & account abstraction
+   - Gas abstraction & fiat on-ramps
    - Mobile-first responsive design
-   - User testing with non-crypto users
+   - User testing with non-crypto audiences
 
-3. **Liquidity Bootstrapping** (15%): $75K-150K
-   - Market maker recruitment (5-10 firms)
-   - Platform co-investment in featured markets ($10K-50K per market)
-   - Initial liquidity subsidies
+3. **Liquidity Bootstrapping** (20%): $100K-200K
+   - Market maker recruitment and incentives
+   - Platform co-investment in featured markets
+   - Liquidity mining program setup
    - MM bot infrastructure
 
-4. **Security & Audits** (15%): $75K-150K
-   - Follow-up security audits (new features)
-   - Bug bounty program ($50K)
-   - Ongoing security monitoring
-   - Insurance exploration (Nexus Mutual)
-
-5. **Marketing & Creator Acquisition** (10%): $50K-100K
-   - Creator incentive program
-   - Community building (Discord/Telegram)
-   - Conference presence
-   - Content marketing
-
-6. **Operations & Legal** (5%): $25K-50K
+4. **Security & Operations** (15%): $75K-150K
+   - Follow-up audits for new features
+   - Bug bounty program
    - Legal & compliance counsel
-   - Infrastructure (RPC, indexing, hosting)
-   - Administrative overhead
+   - Infrastructure scaling
 
-**Key Changes from Original**:
-- ✅ 35% to immediate team expansion (was 40% over 18 months) - addresses key-person risk
-- ✅ 20% dedicated to UX (was bundled with development) - addresses "retail users don't care about decentralization"
-- ✅ 15% to liquidity (was $0) - addresses "who takes the other side of the bet?"
-- ✅ Reduced marketing from 20% to 10% (focus on product-market fit first)
-
-**Runway**: 18-24 months to profitability (unchanged)
+**Runway**: 18 months to strong revenue momentum
 
 ---
 
@@ -594,9 +559,26 @@ Examples:
    - Gradually reduce subsidy as organic MM activity increases
    - Target: 80% organic liquidity by Month 12
 
-**Investment Required**: $500K liquidity mining fund (Year 2-3)
+5. **Token-Based Liquidity Farming** (Q4 2025 - Potential):
+   - **$PREDICT Token**: Governance + revenue-sharing token (potential Q4 2025 launch)
+   - **Liquidity Mining**: Earn $PREDICT tokens for providing two-sided liquidity
+   - **Staking Rewards**: Stake $PREDICT to earn 20-30% of platform fees
+   - **Creator Rewards**: Top creators earn bonus $PREDICT allocations
+   - **MM Incentives**: Professional MMs earn higher token rewards (2-5x multipliers)
 
-**Expected Impact**: 3-5x increase in market depth, 50% reduction in slippage
+**Token Economics** (If Launched):
+- Total Supply: 100M $PREDICT
+- Allocation: 40% liquidity mining, 25% team (4-year vest), 20% treasury, 15% investors
+- Distribution: 4-year emission schedule, decreasing over time
+- Utility: Governance votes + pro-rata share of 30-50% of platform fees
+
+**Investment Required**:
+- Bootstrap fund (USDC): $75K-150K (Year 1-2)
+- Token launch (optional): $500K-1M liquidity mining allocation (Year 2-3)
+
+**Expected Impact**:
+- Without token: 3-5x increase in market depth, 50% reduction in slippage
+- With token: 10-20x increase in liquidity, sustainable MM ecosystem
 
 ---
 
@@ -643,10 +625,114 @@ Examples:
 - Metamask-first apps: Require wallet, ETH for gas, complex (we avoid this)
 - **Our Edge**: Same great UX as Polymarket + creator fees + better liquidity incentives
 
-**Investment Priority**: 30% of seed funding to UX/UI ($150K-300K)
+**Investment Priority**: 25% of seed funding to UX/UI ($125K-250K)
 - Hire experienced web2 designers (not crypto-native)
 - User testing with non-crypto users
 - Mobile-first development
+
+---
+
+### Aggressive Go-To-Market Strategy: The Influencer Playbook
+
+**The Problem with Generic "User Acquisition"**: Most crypto projects say "we will acquire users" without specifics. We're doing the opposite.
+
+**Our Strategy**: Target the top 50 crypto-Twitter influencers and crypto YouTubers with prediction market track records and offer them **"Founder Tier" creator benefits** to migrate their predictions to our platform.
+
+#### Target Influencer Tiers
+
+**Tier 1 - Mega Influencers** (10 people, 500K+ followers):
+- **Examples**: Cobie, Loomdart, DCinvestor, Pentosh1, Hsaka, Matti (VirtualBacon)
+- **Offer**: 3.0% creator fee (vs standard 1.8%) + $10K guaranteed minimum for first 6 months
+- **Expected Impact**: 50K+ followers each, 5-10 high-volume markets/month
+- **Investment**: $100K (10 × $10K guarantees)
+
+**Tier 2 - Power Creators** (20 people, 100K-500K followers):
+- **Examples**: Mid-tier crypto analysts, DeFi researchers, macro traders
+- **Offer**: 2.5% creator fee + $5K guaranteed minimum for first 3 months
+- **Expected Impact**: 10K+ followers each, 3-5 markets/month
+- **Investment**: $100K (20 × $5K guarantees)
+
+**Tier 3 - Rising Stars** (20 people, 20K-100K followers):
+- **Examples**: Quality analysts, specialized traders (NFTs, DeFi, etc.)
+- **Offer**: 2.0% creator fee + featured placement on homepage
+- **Expected Impact**: 5K+ followers each, 2-4 markets/month
+- **Investment**: $0 (no guarantees, just fee bump)
+
+#### Outreach Campaign
+
+**Phase 1 - Personal Outreach** (Month 1):
+- Direct DMs to top 50 targets
+- Personalized pitch: "We saw your [specific prediction], want to earn from it?"
+- Value prop: Turn your free predictions into revenue streams
+- Onboarding: White-glove service, 1-on-1 setup calls
+
+**Phase 2 - Social Proof** (Months 2-3):
+- First 5-10 adopters become case studies
+- Tweet threads: "How @Cobie earned $15K in his first month"
+- Creator spotlight series on our blog
+- Cross-promotion between early adopters
+
+**Phase 3 - Network Effects** (Months 4-6):
+- Early creators recruit their networks
+- "Creator referral program": Earn 10% of referred creator's fees for 12 months
+- Community competitions: "$10K prize for highest volume creator"
+- Conference appearances with creator partners
+
+#### Why This Works
+
+1. **Proven Track Record**: These influencers ALREADY make predictions publicly (Twitter, YouTube). We're just monetizing what they already do.
+
+2. **Built-In Distribution**: Each creator brings 5K-500K followers who trust their analysis. We're not buying ads—we're buying distribution.
+
+3. **Quality Markets**: Professional analysts create better markets than retail users. Better markets = more volume = more revenue.
+
+4. **Network Effects**: Once we have 10-20 top creators, FOMO kicks in. Other creators will want in.
+
+5. **Content Generation**: Every market creates content opportunities (tweets, videos, debates). Free marketing.
+
+#### Expected Results
+
+**Month 3 Targets** (10 Tier 1+2 creators onboarded):
+- 100K combined follower reach
+- 50 high-quality markets created
+- $2M initial volume
+- $24K revenue (platform + creator fees)
+
+**Month 6 Targets** (30+ creators onboarded):
+- 500K combined follower reach
+- 300 markets created
+- $10M volume
+- $120K monthly revenue
+
+**Year 1 Targets** (50+ active creators):
+- 1M+ combined reach
+- 1,200 markets created
+- $5M average monthly volume
+- $60K average monthly revenue
+
+#### Competitive Advantage
+
+**Why Polymarket Can't Copy This**: They don't have creator fees. They'd need to completely redesign their economic model. By the time they do, we have first-mover advantage and creator lock-in.
+
+**Why Augur Failed at This**: No built-in creator monetization, complex UX, poor gas efficiency. We solve all three.
+
+**Our Edge**: We're the ONLY platform that pays creators directly from smart contracts. It's baked into our architecture.
+
+#### Investment Allocation
+
+**Creator Acquisition Budget**: $200K-400K (40% of seed round)
+
+Breakdown:
+- Tier 1 guarantees: $100K (10 creators × $10K)
+- Tier 2 guarantees: $100K (20 creators × $5K)
+- Creator support team: $50K-100K (2 community managers)
+- Creator tools & marketing: $50K-100K (analytics, promotional materials)
+
+**ROI Calculation**:
+- Investment: $200K-400K
+- Expected Year 1 volume from creator networks: $50M+
+- Expected revenue: $600K+ (3x return in first year)
+- Long-term value: Creator lock-in + network effects
 
 ---
 
@@ -1262,106 +1348,23 @@ Our platform has **6 distinct technical advantages** that create a defensible co
 
 ---
 
-## Team & Execution
+## Execution & Traction
 
-### Current Team & Immediate Expansion
+### What's Already Built
 
-**Core Team** (2 members + immediate hires):
+✅ **Complete smart contract system** - 6 months development
+✅ **Security audit completed** - Production-ready
+✅ **Live on mainnet** - Ethereum + Base deployment
+✅ **95%+ test coverage** - Battle-tested code
+✅ **Comprehensive documentation** - Ready for contributors
 
-1. **Technical Lead / CTO**
-   - Full-stack blockchain engineer
-   - 5+ years Solidity experience
-   - Led development of entire smart contract system
-   - Architected modular design and clone pattern
-   - **Immediate backup**: Senior Engineer hire (Month 1)
+**Status**: Fully operational, accepting real money, settling markets via UMA oracle
 
-2. **Product Lead / CEO**
-   - 10+ years product management
-   - Deep DeFi and prediction market expertise
-   - Business strategy and go-to-market
-   - **Immediate backup**: Product Manager hire (Month 2)
+### What We Need Funding For
 
-**Advisors**:
-- UMA Protocol team (oracle integration)
-- Legal counsel (regulatory compliance)
-- Security auditors (smart contract review)
+**Simple**: Scale user acquisition and liquidity
 
-### Risk Mitigation: 2-Person Team
-
-**Acknowledged Risk**: Two-person founding team creates key-person risk
-
-**Immediate Mitigation** (funded with seed round):
-
-1. **Technical Redundancy** (Month 1):
-   - Hire Senior Blockchain Engineer ($100K-120K)
-   - Cross-training on all critical systems
-   - Paired programming on new features
-   - Complete code review process
-
-2. **Product Redundancy** (Month 2):
-   - Hire Product Manager ($80K-100K)
-   - Knowledge transfer on roadmap and strategy
-   - Shared responsibility on partnerships
-
-3. **Documentation** (Completed):
-   - ✅ Comprehensive technical documentation
-   - ✅ 95%+ test coverage (code self-documents)
-   - ✅ Architecture diagrams and decision logs
-   - ✅ Deployment runbooks and emergency procedures
-
-4. **Bus Factor Protection**:
-   - All critical passwords in company password manager
-   - Multi-sig wallet for treasury (3-of-5)
-   - Disaster recovery plan documented
-   - Advisors can step in if needed
-
-**Accelerated Hiring Plan** (addresses investor concern):
-
-**Months 1-3** (IMMEDIATE with seed funding):
-- Senior Blockchain Engineer ($100K-120K) - **Month 1**
-- Product Manager ($80K-100K) - **Month 2**
-- Frontend Engineer ($75K-100K) - **Month 3**
-- Designer/UX ($60K-80K) - **Month 3**
-
-**Months 4-12**:
-- Backend Engineer ($80K-100K)
-- Marketing Lead ($80K-100K)
-- Community Manager ($50K-70K)
-
-**Year 2** (4 additional hires):
-- Smart Contract Engineer ($100K-120K)
-- DevOps Engineer ($90K-110K)
-- Data Scientist ($90K-110K)
-- Business Development ($80K-100K)
-
-**Total Team Size**:
-- 6 people by Month 3 (addresses key-person risk)
-- 9 people by Month 12
-- 13 people by end of Year 2
-
-**Revised Funding Allocation** (40% to Development):
-- Immediate hires (4 people): $150K in salaries (Q1)
-- Remaining development: $250K-400K (modules, features, infrastructure)
-
-### Execution Track Record
-
-**Achievements to Date**:
-✅ Complete smart contract system (6 months)
-✅ Security audit completed
-✅ Multi-chain deployment (Ethereum + Base)
-✅ 95%+ test coverage
-✅ Comprehensive documentation
-✅ Live on mainnet (operational)
-
-**Development Velocity**: 2-week sprint cycles, continuous deployment
-
-### Advisory Board (Planned)
-
-**Seeking**:
-- Prediction market expert (ex-Polymarket, Augur, Kalshi)
-- DeFi founder (credibility in crypto community)
-- Legal expert (crypto regulations)
-- Marketing expert (user acquisition at scale)
+**Not**: Build the product (it's done)
 
 ---
 
